@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vincentcheng2116
-- 👀 I’m interested in Python, Delphi Lazarus
+- 👀 I’m interested in Python, Delphi, Lazarus
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me by email
