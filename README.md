@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vincentcheng2116
 - 👀 I’m interested in Python, Delphi, Lazarus
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ...image processing
+- 💞️ I’m looking to collaborate on ... x
 - 📫 How to reach me by email
 
 <!---
